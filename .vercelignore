@@ -1,0 +1,14 @@
+.claude/
+.mcp.json
+docs/
+layers/
+DESIGN.md
+PRODUCT.md
+MediShields-Website-Overview.md
+handover-Medishields.md
+medishields.vercel.app-audit/
+medishields.vercel.app-audit-2/
+medishields.vercel.app-audit-3/
+*.tsbuildinfo
+.vercelignore
+.gitignore
