@@ -41,19 +41,3 @@ yarn-error.log*
 next-env.d.ts
 
 .vercel
-
-# internal working files — not app code, never ship these to the repo
-.claude/
-.mcp.json
-docs/
-layers/
-DESIGN.md
-PRODUCT.md
-MediShields-Website-Overview.md
-handover-Medishields.md
-medishields.vercel.app-audit/
-medishields.vercel.app-audit-2/
-medishields.vercel.app-audit-3/
-
-.vercel
-.env*
